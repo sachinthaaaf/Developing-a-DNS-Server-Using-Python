@@ -53,4 +53,6 @@ Developing this DNS server has deepened my understanding of networked systems an
 ## Acknowledgments
 Special thanks to the course team for the imense support, which has been a valuable learning experience in network programming and DNS server implementation.
 
+## Created By
+Sachintha Fernando
 
